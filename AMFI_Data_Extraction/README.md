@@ -45,7 +45,7 @@ git clone https://github.com/RAHULRAOSHINDE/DeliveryFix_DatabaseInteract_Extract
 3.Navigate to the project directory:
 
 ```bash
-cd AMFI_Data_Extraction
+cd DeliveryFix_DatabaseInteract_ExtractScript/AMFI_Data_Extraction
 ```
 
 4.Give permissions to the script 
