@@ -74,7 +74,7 @@ This project follows a straightforward architecture, consisting of a single shel
 To test the project, execute the extract.sh script and verify that the extracted data is correctly saved in the output.tsv file.
 
 
-## And ever wondered if this data should not be stored in JSON?
+## JSON Consideration
 
 Storing the data in JSON may not be necessary for several reasons because,
 
