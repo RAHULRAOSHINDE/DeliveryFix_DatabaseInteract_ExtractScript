@@ -29,7 +29,7 @@ If Python is not installed, you can download it from python.org and follow the i
 2.Download or Clone Repository: To obtain the necessary code and files, download or clone this GitHub repository to your local machine. If you're using Git to clone the repository, use the following command:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/RAHULRAOSHINDE/DeliveryFix_DatabaseInteract_ExtractScript.git
 ```
 
 3.Ensure you have Jupyter Notebook installed. If not,install it using:
