@@ -30,8 +30,6 @@ You can connect to the Rfam database using the command line. Open a terminal and
 mysql --user rfamro --host mysql-rfam-public.ebi.ac.uk --port 4497 --database Rfam
 ```
 
-MySQL Workbench
-
 Alternatively, use MySQL Workbench or any other MySQL client to connect to the Rfam database. Enter the connection details mentioned above when setting up the connection.
 
 Note: If your computer is behind a firewall, ensure that outgoing TCP/IP connections to port 4497 are allowed.
@@ -42,15 +40,21 @@ The data for this project is sourced from the Rfam database. Detailed informatio
 
 To run queries and interact with the Rfam database, follow these instructions:
 
-1.Open MySQL Workbench.
+1.Download or Clone Repository: To obtain the necessary code and files, download or clone this GitHub repository to your local machine. If you're using Git to clone the repository, use the following command:
 
-2.Click on "File" in the top menu and select "Open SQL Script."
+```bash
+git clone https://github.com/RAHULRAOSHINDE/DeliveryFix_DatabaseInteract_ExtractScript.git
+```
 
-3.Choose the relevant SQL script file provided for each question.
+2.Open MySQL Workbench.
 
-4.Update the connection details at the top of the script if necessary.
+3.Click on "File" in the top menu,select "Open SQL Script."
 
-5.Execute the script by clicking on the lightning bolt icon or pressing Ctrl + Enter.
+4.Navigate to the directory where you downloaded or cloned the repository,choose the relevant SQL script file provided for each question.
+
+5.Update the connection details at the top of the script if necessary.
+
+6.Execute the script by clicking on the lightning bolt icon or pressing Ctrl + Enter.
 ## Queries for Requirements
 
 a. Types of Tigers in Taxonomy Table
