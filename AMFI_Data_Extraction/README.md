@@ -51,7 +51,7 @@ cd DeliveryFix_DatabaseInteract_ExtractScript/AMFI_Data_Extraction
 4.Give permissions to the script 
 
 ```
-chmod u+x extract.sh
+chmod u+x amfi_data_extraction.sh
 ```
 
 5.Run the extract.sh script to execute the extraction process:
